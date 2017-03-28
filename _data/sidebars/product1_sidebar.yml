@@ -58,3 +58,24 @@ entries:
     - title: Sample 7
       url: /p1_sample7.html
       output: web, pdf
+
+
+- title: Yet Another heading
+    output: web, pdf
+
+    folderitems:
+    - title: Sample 4
+      url: /p1_sample4.html
+      output: web, pdf
+
+    - title: Sample 5
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: Sample 6
+      url: /p1_sample6.html
+      output: web, pdf
+
+    - title: Sample 7
+      url: /p1_sample7.html
+      output: web, pdf
