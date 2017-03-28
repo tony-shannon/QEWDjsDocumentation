@@ -68,9 +68,9 @@ entries:
       url: /p1_sample4.html
       output: web, pdf
 
-    # - title: Sample 5
-      # url: /p1_sample5.html
-      # output: web, pdf
+    - title: Sample 5c
+      url: /p1_sample5.html
+      output: web, pdf
 
     # - title: Sample 6
       # url: /p1_sample6.html
