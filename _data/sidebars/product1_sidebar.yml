@@ -64,7 +64,7 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Sample 4
+    - title: Sample 4b
       url: /p1_sample4.html
       output: web, pdf
 
