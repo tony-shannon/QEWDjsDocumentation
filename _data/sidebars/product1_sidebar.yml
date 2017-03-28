@@ -39,7 +39,7 @@ entries:
       url: /p1_sample3.html
       output: web, pdf
 
-  - title: Another heading
+  - title: Another heading 2
     output: web, pdf
 
     folderitems:
@@ -60,22 +60,22 @@ entries:
       output: web, pdf
 
 
-- title: Yet Another heading
+  - title: Yet Another heading 3
     output: web, pdf
 
-    folderitems:
-    - title: Sample 4
-      url: /p1_sample4.html
-      output: web, pdf
+    # folderitems:
+    # - title: Sample 4
+      # url: /p1_sample4.html
+      # output: web, pdf
 
-    - title: Sample 5
-      url: /p1_sample5.html
-      output: web, pdf
+    # - title: Sample 5
+      # url: /p1_sample5.html
+      # output: web, pdf
 
-    - title: Sample 6
-      url: /p1_sample6.html
-      output: web, pdf
+    # - title: Sample 6
+      # url: /p1_sample6.html
+      # output: web, pdf
 
-    - title: Sample 7
-      url: /p1_sample7.html
-      output: web, pdf
+    # - title: Sample 7
+      # url: /p1_sample7.html
+      # output: web, pdf
