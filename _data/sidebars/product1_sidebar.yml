@@ -60,13 +60,13 @@ entries:
       output: web, pdf
 
 
-  # - title: Yet Another heading 3b
-    # output: web, pdf
+  - title: Yet Another heading 3b
+    output: web, pdf
 
-    # folderitems:
-    # - title: Sample 4b
-      # url: /p1_sample4.html
-      # output: web, pdf
+    folderitems:
+    - title: Sample 4b
+      url: /p1_sample4.html
+      output: web, pdf
 
     # - title: Sample 5
       # url: /p1_sample5.html
