@@ -68,7 +68,7 @@ entries:
       url: /p1_sample4.html
       output: web, pdf
 
-    - title: Sample 5cd_TS
+    - title: Sample 5cd_TS_u2
       url: /p1_sample5.html
       output: web, pdf
 
