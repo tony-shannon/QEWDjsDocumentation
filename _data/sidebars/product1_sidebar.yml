@@ -39,7 +39,7 @@ entries:
       url: /p1_sample3.html
       output: web, pdf
 
-  - title: Another heading 2v
+  - title: Overview of Architecture
     output: web, pdf
 
     folderitems:
@@ -60,7 +60,7 @@ entries:
       output: web, pdf
 
 
-  - title: Yet Another heading 3b
+  - title: Under the hood of Headings
     output: web, pdf
 
     folderitems:
