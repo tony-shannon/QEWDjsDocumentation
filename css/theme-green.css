@@ -22,7 +22,8 @@ h4 {color: #808080; }
 }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
-    background-color: #72ac4a;
+    background-color: #f8f8f8;
+    color: #77777a;
 }
 
 .nav li.thirdlevel > a {
