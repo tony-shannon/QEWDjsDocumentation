@@ -524,7 +524,7 @@ table.profile thead tr th {
 }
 
 table.request thead tr th {
-    background-color: #ED1951;
+    background-color: #3baa35;
 }
 
 .audienceLabel {
@@ -590,7 +590,7 @@ a[data-toggle] {
     font-size:120%;
     color: #808080;
     margin:20px 0px 20px 0px;
-    border-left: 5px solid #ED1951;
+    border-left: 5px solid #3baa35;
     padding-left: 10px;
 
 }
@@ -605,7 +605,7 @@ a.fa.fa-envelope-o.mailto {
     font-weight: 600;
 }
 
-h3 {color: #ED1951; font-weight:normal; font-size:130%;}
+h3 {color: #3baa35; font-weight:normal; font-size:130%;}
 h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;}
 
 .alert, .callout {
@@ -1185,14 +1185,14 @@ body {
 	padding-top: 46px;
 }
 
-#rs-navbar .navbar-brand img {
-	width: auto; 
-	height: 82px;
+#rs-navbar .navbar-brand {
+	padding: 2px 15px;
 }
 
-#rs-navbar .nav li a {
-	
-}
+	#rs-navbar .navbar-brand img {
+		width: auto; 
+		height: 44px;
+	}
 
 #rs-navbar .navbar-collapse.collapsing,
 #rs-navbar .navbar-collapse.in {
@@ -1201,6 +1201,10 @@ body {
 }
 
 @media (min-width: 768px) {
+	
+	#rs-navbar .navbar-brand img {
+		height: 82px;
+	}
 	
 	#rs-navbar.navbar {
 		min-height: 88px;
@@ -1230,7 +1234,7 @@ body {
 		}
 		
 		#rs-navbar.navbar .navbar-nav > li.active {
-			border-bottom: 2px solid #3481ed;
+			border-bottom: 2px solid #198813;
 			box-sizing: border-box;
 		}
 	
@@ -1248,12 +1252,12 @@ body {
 		}
 			
 			#rs-navbar.navbar .navbar-nav > li.active > a {
-			    color: #ff5e00;
+			    color: #3baa35;
 			}
 		
 			#rs-navbar.navbar-default .navbar-nav>li>a:focus, 
 			#rs-navbar.navbar-default .navbar-nav>li>a:hover {
-				color: #ff5e00;
+				color: #3baa35;
 			}
 			
 			#rs-navbar.navbar-default .navbar-nav > li.twitter a {
@@ -1294,9 +1298,9 @@ body {
 		
 		#rs-navbar .dropdown-menu {
 			border: none;
-			border-top: 2px solid #3481ed;
+			border-top: 2px solid #198813;
 			background-color: #fff;
-			top: 42px;
+			top: 84px;
 		}
 		
 			#rs-navbar .dropdown-menu li,
