@@ -27,7 +27,7 @@ entries:
     - title: Introduction
       url: /mydoc_introduction.html
       output: web, pdf
-    - title: Supported features
+    - title: Showcase Demonstrator
       url: /mydoc_supported_features.html
       output: web, pdf
     - title: About the Team
