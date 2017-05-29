@@ -46,25 +46,25 @@ entries:
     output: web, pdf
     folderitems:
     - title: About PulseTile
-      url: /mydoc_pages.html
+      url: /pulsetile.html
       output: web, pdf
   - title: QEWD Integration Framework
     output: web, pdf
     folderitems:
     - title: About QEWD
-      url: /mydoc_sidebar_navigation.html
+      url: /qewd.html
       output: web, pdf
     - title: About QEWD-Ripple
-      url: /mydoc_yaml_tutorial.html
+      url: /qewd-ripple.html
       output: web, pdf
   - title: EtherCIS Data Repository
     output: web, pdf
     folderitems:
     - title: About openEHR
-      url: /mydoc_adding_tooltips.html
+      url: /openEHR.html
       output: web, pdf
     - title: About EtherCIS
-      url: /mydoc_alerts.html
+      url: /etherCIS.html
       output: web, pdf   
   - title: Troubleshooting
     output: web, pdf
