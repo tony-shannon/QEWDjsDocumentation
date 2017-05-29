@@ -40,7 +40,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Installing the Showcase Stack- QEWD Ripple
-      url: /pages/qewd/qewd-ripple.md
+      url: /qewd-ripple.html
       output: web, pdf
     - title: Install Jekyll on Mac
       url: /mydoc_install_jekyll_on_mac.html
