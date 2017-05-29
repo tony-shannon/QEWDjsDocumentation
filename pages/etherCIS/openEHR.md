@@ -2,7 +2,7 @@
 title: About openEHR
 keywords: openEHR
 sidebar: rippledocs1_sidebar
-permalink: openEHR1.html
+permalink: openEHR.html
 ---
 
 
