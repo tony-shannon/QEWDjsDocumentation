@@ -1,6 +1,7 @@
 ---
 title: Ripple-QEWD
 keywords: QEWD
+sidebar: rippledocs1_sidebar
 permalink: qewd-ripple.html
 ---
 
