@@ -58,6 +58,9 @@ entries:
     output: web, pdf
     folderitems:
     - title: Troubleshooting
-      url: /mydoc_troubleshooting.html
+      url: /troubleshooting.html
+      output: web, pdf
+    - title: FAQ
+      url: /FAQ.html
       output: web, pdf
   
