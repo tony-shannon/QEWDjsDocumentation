@@ -54,7 +54,7 @@ entries:
     - title: About EtherCIS
       url: /etherCIS.html
       output: web, pdf   
-  - title: Troubleshooting
+  - title: FAQ & Troubleshooting
     output: web, pdf
     folderitems:
     - title: Troubleshooting
