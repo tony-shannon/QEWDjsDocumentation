@@ -7,3 +7,5 @@ permalink: qewd-ripple-explained.html
 
 
 Here we explain in technical detail how the QEWD framework acts as the engine of the Ripple Showcase Stack
+
+
