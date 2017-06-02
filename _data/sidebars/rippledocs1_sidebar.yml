@@ -27,8 +27,8 @@ entries:
   - title: Installation
     output: web, pdf
     folderitems:
-    - title: Installing the Showcase Stack- QEWD Ripple
-      url: /qewd-ripple.html
+    - title: Installing the Showcase Stack
+      url: /installing-ripple-stack.html
       output: web, pdf
   - title: PulseTile UX/UI Framework
     output: web, pdf
@@ -42,6 +42,9 @@ entries:
     - title: About QEWD
       url: /qewd.html
       output: web, pdf
+    - title: Why QEWDjs? Features
+      url: /qewd_features.html
+      output: web, pdf  
     - title: About QEWD-Ripple
       url: /qewd-ripple.html
       output: web, pdf
