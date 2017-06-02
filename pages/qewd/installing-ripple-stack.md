@@ -3,7 +3,7 @@
 title: Ripple-QEWD
 keywords: QEWD
 sidebar: rippledocs1_sidebar
-permalink: installing-ripple-stack.html
+permalink: installing-ripple-stack2.html
 ---
 Installing Ripple Showcase Stack
 
