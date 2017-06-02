@@ -48,6 +48,9 @@ entries:
     - title: About QEWD-Ripple
       url: /qewd-ripple.html
       output: web, pdf
+    - title: Technical Overview of QEWD-Ripple
+      url: /qewd-ripple-explained.html
+      output: web, pdf
   - title: EtherCIS Data Repository
     output: web, pdf
     folderitems:
