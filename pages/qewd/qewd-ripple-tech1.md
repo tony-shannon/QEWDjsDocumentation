@@ -12,11 +12,11 @@ permalink: qewd-ripple-explained.html
 
 The Ripple Showcase stack combines three key Open Source frameworks to offer a quick and easy, yet enterprise-ready, stack to support a wide variety of application needs in the health and care arena. In simple terms the three key components are tiered, and can be understood in terms of front-end (UI), middleware and back-end (DB) elements respectively:
 
-**PulseTile ** - UX/UI framework- for great usability at the clinical frontline
+**PulseTile** - UX/UI framework- for great usability at the clinical frontline
 
-**QEWDjs **- Integration Framework- Quick & Easy/Quality Enterprise Integration
+**QEWDjs**- Integration Framework- Quick & Easy/Quality Enterprise Integration
 
-**EtherCIS **- Clinical Data Repository - for Structured & Unstructured Data
+**EtherCIS**- Clinical Data Repository - for Structured & Unstructured Data
 
 
 ----------
