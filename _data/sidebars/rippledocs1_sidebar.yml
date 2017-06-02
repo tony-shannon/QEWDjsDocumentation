@@ -28,9 +28,6 @@ entries:
     output: web, pdf
     folderitems:
     - title: Installing the Showcase Stack
-      url: /installing-ripple-stack2.html
-      output: web, pdf
-    - title: Installing the Showcase Stack#2
       url: /install_showcase.html
       output: web, pdf    
   - title: PulseTile UX/UI Framework
