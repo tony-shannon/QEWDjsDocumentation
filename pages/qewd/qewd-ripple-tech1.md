@@ -69,12 +69,12 @@ Communication with the external systems involves:
 
 To simplify and automate this transformation work, the middle tier includes a JSON transformation engine ([https://github.com/robtweed/qewd-transform-json)](https://github.com/robtweed/qewd-transform-json)) which allows the transformations to be described via a template which is, itself, a JSON document.  The template syntax allows not only mapping from locations within the source (input) JSON document, but also the use of custom functions for more complex transformations (eg date formatting) to transform as the external (output) system requires.  An associated graphical editor tool ([https://github.com/robtweed/qewd-transform-json-editor)](https://github.com/robtweed/qewd-transform-json-editor)) can be used to facilitate the design and maintenance of the transformation template document files, which greatly simplifying the transformation process.
 
-**High Performance Cache**
+**4) High Performance Cache**
 
 -     Qewd-Ripple also provides an integrated high-performance session cache, which minimises the traffic to and from external systems.  This makes use of the persistent JSON objects and document database within QEWD.js which, in turn, is supported by either the Redis or GT.M open source databases acting as the cache.
 
 
-**Catering for the Unique Database Technology Mix in Healthcare**
+**5) Catering for the Unique Database Technology Mix in Healthcare**
 
  
 
