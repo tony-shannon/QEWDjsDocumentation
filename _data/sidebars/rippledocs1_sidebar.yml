@@ -45,7 +45,7 @@ entries:
     - title: Why QEWDjs? Features
       url: /qewd_features.html
       output: web, pdf  
-    - title: About QEWD-Ripple
+    - title: QEWD-Ripple SlideSet
       url: /qewd-ripple.html
       output: web, pdf
     - title: Technical Overview of QEWD-Ripple
