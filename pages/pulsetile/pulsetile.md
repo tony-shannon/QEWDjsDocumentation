@@ -9,6 +9,6 @@ permalink: pulsetile.html
 
 
 
-About PulseTile
+**About PulseTile**
 
 Read all about [PulseTile - the leading UX/UI framework for healthcare here](http://pulsetile.com/)
