@@ -44,7 +44,10 @@ entries:
       output: web, pdf
     - title: Why QEWDjs? Features
       url: /qewd_features.html
-      output: web, pdf  
+      output: web, pdf 
+    - title: Architectural Overview of QEWDjs
+      url: /qewd_architecture.html
+      output: web, pdf   
     - title: QEWD-Ripple SlideSet
       url: /qewd-ripple.html
       output: web, pdf
