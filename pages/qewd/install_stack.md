@@ -6,7 +6,7 @@ permalink: install_showcase.html
 ---
 Installing Ripple Showcase Stack
 
-the installer is here 
+The [Ripple QEWD installer for our showcase stack is available here on Github](https://github.com/RippleOSI/Qewd-Ripple/blob/master/README.md) 
 you can be live in less than 15 minutes
 
-https://github.com/RippleOSI/Qewd-Ripple/blob/master/README.md
+
