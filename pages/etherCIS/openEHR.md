@@ -8,8 +8,6 @@ permalink: openEHR.html
 
 
 
-About openEHR
+**About openEHR**
 
-read all about it here
-
-http://openehr.org/
+Read all about the internationally leading  work of the [openEHR Foundation here](http://openehr.org/)
