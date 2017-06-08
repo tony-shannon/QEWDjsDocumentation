@@ -8,8 +8,6 @@ permalink: etherCIS.html
 
 
 
-About EtherCIS
+**About EtherCIS**
 
-read all about it here
-
-http://ripple.foundation/ethercis/
+Read all about [EtherCIS, the leading open source Clinical Data Repository here](http://ripple.foundation/ethercis/)
