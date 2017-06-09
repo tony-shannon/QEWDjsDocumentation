@@ -1,7 +1,7 @@
 ---
 title: Ripple-QEWD
 keywords: QEWD
-sidebar: qewddocs_sidebar.yml
+sidebar: home_sidebar.yml
 permalink: install_showcase.html
 ---
 Installing QEWDjs
