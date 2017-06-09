@@ -1,7 +1,7 @@
 ---
 title: Ripple Showcase Stack - FAQ
 keywords: FAQ
-sidebar: rippledocs2_sidebar
+sidebar: home_sidebar
 permalink: FAQ.html
 ---
 
@@ -10,9 +10,8 @@ permalink: FAQ.html
 
 Frequently Asked Questions
 
-Why is it open source?
+
 
 What problem is it trying to solve?
 
-Where can I find out more about the Ripple Foundation
-http://ripple.foundation/
+
