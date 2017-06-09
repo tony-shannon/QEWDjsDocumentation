@@ -1,7 +1,7 @@
 ---
 title: About QEWD
 keywords: QEWD
-sidebar: rippledocs1_sidebar
+sidebar: qewddocs_sidebar.yml
 permalink: qewd.html
 ---
 
