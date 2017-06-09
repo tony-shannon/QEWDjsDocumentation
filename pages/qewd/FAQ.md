@@ -1,5 +1,5 @@
 ---
-title: Ripple Showcase Stack - FAQ
+title: QEWDjs - FAQ
 keywords: FAQ
 sidebar: home_sidebar
 permalink: FAQ.html
