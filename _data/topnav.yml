@@ -7,19 +7,8 @@ topnav:
       external_url: http://qewdjs.com/#services
     - title: About
       external_url: http://qewdjs.com/#about
-
-#Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
     - title: Documentation
-      folderitems:
-        - title: QEWDjs Documentation
-          external_url: http://qewdjs.com/qewddocs
-          
-contact:
-- title: Community
-  items:
+      external_url: http://qewdjs.com/#documentation
     - title: Community
       external_url: http://qewdjs.com/#contact
 

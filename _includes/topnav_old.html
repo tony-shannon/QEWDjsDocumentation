@@ -1,0 +1,79 @@
+<nav class="navbar navbar-default navbar-fixed-top" id="rs-navbar">
+	<div class="container">
+		<div class="navbar-header">
+			<a class="navbar-brand noCrossRef" href="http://b51.cc4.myftpupload.com">
+				<!--<img src="{{ "images/PulseTile_symbol_only-80x80.png" }}" alt="PulseTile">  -->
+				<img src="{{ "/images/header-icon300.png" | prepend: site.baseurl }}" alt="QEWD">
+				 
+			</a>
+			
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+		</div>
+		
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+			</ul>
+			
+			<ul class="nav navbar-nav navbar-right main">
+				
+				<!-- entries without drop-downs appear here -->
+                {% for entry in site.data.topnav.topnav %}
+	                {% for item in entry.items %}
+	                	{% if item.external_url %}
+							<li><a href="{{item.external_url}}" target="_blank" class="noCrossRef">{{item.title}}</a></li>
+						{% elsif page.url contains item.url %}
+							<li class="active"><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
+						{% else %}
+							<li><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
+	                	{% endif %}
+	                {% endfor %}
+	            {% endfor %}
+	            
+	            <!-- entries with drop-downs appear here -->
+	            <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+	            {% for entry in site.data.topnav.topnav_dropdowns %}
+	                {% for folder in entry.folders %}
+	                <li class="dropdown">
+	                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ folder.title }}<b class="caret"></b></a>
+	                    <ul class="dropdown-menu">
+	                        {% for folderitem in folder.folderitems %}
+	                        {% if folderitem.external_url %}
+	                        <li><a href="{{folderitem.external_url}}" target="_blank" class="noCrossRef">{{folderitem.title}}</a></li>
+	                        {% elsif page.url contains folderitem.url %}
+	                        <li class="dropdownActive"><a href="{{folderitem.url |  remove: "/"}}">{{folderitem.title}}</a></li>
+	                        {% else %}
+	                        <li><a href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
+	                        {% endif %}
+	                        {% endfor %}
+	                    </ul>
+	                </li>
+	                {% endfor %}
+                {% endfor %}
+                
+                <!-- entries without drop-downs appear here -->
+                {% for entry in site.data.topnav.contact %}
+	                {% for item in entry.items %}
+	                	{% if item.external_url %}
+							<li><a href="{{item.external_url}}" target="_blank" class="noCrossRef">{{item.title}}</a></li>
+						{% elsif page.url contains item.url %}
+							<li class="active"><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
+						{% else %}
+							<li><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
+	                	{% endif %}
+	                {% endfor %}
+	            {% endfor %}
+				
+			</ul>
+			
+		</div><!-- /.navbar-collapse -->
+		
+	</div><!-- /.container-fluid -->
+</nav>
