@@ -30,7 +30,7 @@ entries:
     - title: Installing QEWDjs
       url: /install_qewd.html
       output: web, pdf    
-  - title: Exploring the QEWDjs Framework
+  - title: Exploring QEWDjs 
     output: web, pdf
     folderitems:
     - title: About QEWDjs
