@@ -17,7 +17,7 @@ entries:
       url: /tocpage
       output: pdf
       type: frontmatter
-  - title: Overview of the Stack
+  - title: Overview of QEWDjs
     output: web, pdf
     folderitems:
     - title: Get started
