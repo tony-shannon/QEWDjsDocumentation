@@ -1,0 +1,60 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: QEWDjs Documentation
+  version: 1.0
+  folders:
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+  - title: Overview of the Stack
+    output: web, pdf
+    folderitems:
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+  - title: Installation
+    output: web, pdf
+    folderitems:
+    - title: Installing the Showcase Stack
+      url: /install_showcase.html
+      output: web, pdf    
+  - title: QEWD Integration Framework
+    output: web, pdf
+    folderitems:
+    - title: About QEWD
+      url: /qewd.html
+      output: web, pdf
+    - title: Why QEWDjs? Features
+      url: /qewd_features.html
+      output: web, pdf 
+    - title: Architectural Overview of QEWDjs
+      url: /qewd_architecture.html
+      output: web, pdf   
+    - title: QEWD-Ripple SlideSet
+      url: /qewd-ripple.html
+      output: web, pdf
+    - title: Technical Overview of QEWD-Ripple
+      url: /qewd-ripple-explained.html
+      output: web, pdf
+  - title: FAQ & Troubleshooting
+    output: web, pdf
+    folderitems:
+    - title: Troubleshooting
+      url: /troubleshooting.html
+      output: web, pdf
+    - title: FAQ
+      url: /FAQ.html
+      output: web, pdf
+  
