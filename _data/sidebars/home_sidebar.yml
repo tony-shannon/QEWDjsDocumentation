@@ -45,9 +45,12 @@ entries:
     - title: QEWD-Ripple SlideSet
       url: /qewd-ripple.html
       output: web, pdf
-    - title: Technical Overview of QEWD-Ripple
+    - title: Technical Overview of QEWD
       url: /qewd-explained.html
       output: web, pdf
+    - title: Training Materials 
+      url: /qewd_training.html
+      output: web, pdf      
   - title: FAQ & Troubleshooting
     output: web, pdf
     folderitems:
