@@ -9,4 +9,6 @@ summary: This documentation is aimed to support you in exploring and understand 
 
 ##Welcome to QEWDjs Documentation 
 
-This documentation is aimed to support you in exploring and understand the QEWDjs Framework  
+This documentation is aimed to support you in exploring and understand the QEWDjs Framework 
+
+..
