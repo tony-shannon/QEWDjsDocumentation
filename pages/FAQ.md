@@ -1,7 +1,7 @@
 ---
 title: Ripple Showcase Stack - FAQ
 keywords: FAQ
-sidebar: rippledocs1_sidebar
+sidebar: rippledocs2_sidebar
 permalink: FAQ.html
 ---
 
