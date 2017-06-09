@@ -1,7 +1,7 @@
 ---
 title: QEWD - Key Features 
 keywords: QEWD
-sidebar: rippledocs1_sidebar
+sidebar: rippledocs2_sidebar
 permalink: qewd_features.html
 ---
 
