@@ -2,7 +2,7 @@
 title: Welcome to QEWDjs Documentation
 keywords: sample homepage
 tags: [getting_started]
-sidebar: qewddocs_sidebar  #rippledocs1_sidebar
+sidebar: rippledocs2_sidebar  #qewddocs_sidebar  #rippledocs1_sidebar
 permalink: index.html
 summary: This documentation is aimed to support you in exploring and understand the QEWDjs framework.
 ---
