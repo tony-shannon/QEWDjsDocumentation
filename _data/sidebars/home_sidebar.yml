@@ -27,13 +27,13 @@ entries:
   - title: Installation
     output: web, pdf
     folderitems:
-    - title: Installing the Showcase Stack
-      url: /install_showcase.html
+    - title: Installing QEWDjs
+      url: /install_qewd.html
       output: web, pdf    
-  - title: QEWD Integration Framework
+  - title: Exploring the QEWDjs Framework
     output: web, pdf
     folderitems:
-    - title: About QEWD
+    - title: About QEWDjs
       url: /qewd.html
       output: web, pdf
     - title: Why QEWDjs? Features
