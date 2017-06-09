@@ -3,29 +3,23 @@
 topnav:
 - title: Topnav
   items:
-    - title: Home
-      external_url: http://ripple.foundation/qewd/
-    - title: News
-      external_url: http://ripple.foundation/news/
+    - title: Features
+      external_url: http://qewdjs.com/#services
+    - title: About
+      external_url: http://qewdjs.com/#about
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Showcase Stack
+    - title: Documentation
       folderitems:
-        - title: Pulsetile
-          external_url: http://ripple.foundation/pulsetile/
-        - title: QewdJs
-          external_url: http://ripple.foundation/qewd/#top
-        - title: EtherCIS
-          external_url: http://ripple.foundation/ethercis/
-        - title: Documentation
-          url: /
+        - title: QEWDjs Documentation
+          external_url: http://qewdjs.com/qewddocs
           
 contact:
-- title: Contact
+- title: Community
   items:
-    - title: Contact Us
-      external_url: http://ripple.foundation/#contact
+    - title: Community
+      external_url: http://qewdjs.com/#contact
 
