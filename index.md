@@ -23,6 +23,7 @@ Please find some key "Quick start" links here
 ##Documentation:
 
 [Documentation: What better way to learn: Introducing Realworld.io](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5)
+
 [Documentation: What better way to learn: Take a look at the Realworld QEWDjs backend built in 2 days](https://github.com/gothinkster/QEWD-realworld-example-app)
 
 See more in the QEWDjs Documentation available here...
