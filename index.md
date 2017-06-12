@@ -7,20 +7,20 @@ permalink: index.html
 summary: This documentation is aimed to support you in exploring and understand the QEWDjs framework.
 ---
 
-##Welcome to QEWDjs Documentation 
+## Welcome to QEWDjs Documentation 
 
 This Documentation is aimed to support you in exploring and understand the QEWDjs Framework 
 
 
 Please find some key "Quick start" links here 
 
-##Background Article:
+## Background Article:
 
 [Introducing QEWDjs: Having your NodeJS cake and eating it too.. 
 ..Removing the Technical Limitations and Developer Complexities of Node.js](https://robtweed.wordpress.com/2017/04/18/having-your-node-js-cake-and-eating-it-too/) 
 
 
-##Documentation:
+## Documentation:
 
 [Documentation: What better way to learn: Introducing Realworld.io](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5)
 
