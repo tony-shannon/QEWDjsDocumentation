@@ -42,7 +42,7 @@ It is a multi-functional and high-performance solution, powered by the QEWD.js f
 -     Qewdjs also provides an integrated high-performance session cache, which minimises the traffic to and from external systems.  This makes use of the persistent JSON objects and document database within QEWD.js which, in turn, is supported by either the Redis or GT.M open source databases acting as the cache.
 
 
-**5) Catering for the Unique Database Technology of "Global Storage"**
+**5) Catering for the Unique Database Technology of "Global Storage"**    ## GlobalStorage
 
 In designing the QEWDjs has been critically important that it is capable of:
 
